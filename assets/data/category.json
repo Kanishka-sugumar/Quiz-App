@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "C Programming",
+    "imagePath": "assets/icons/category/C.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Data Structure",
+    "imagePath": "assets/icons/category/Data-Structures.png"
+  },
+  {
+    "id": 3,
+    "name": "Java",
+    "imagePath": "assets/icons/category/Java.png"
+  },
+  {
+    "id": 4,
+    "name": "Python",
+    "imagePath": "assets/icons/category/Python.png"
+  },
+  {
+    "id": 5,
+    "name": "C++",
+    "imagePath": "assets/icons/category/C++.png"
+  }
+]

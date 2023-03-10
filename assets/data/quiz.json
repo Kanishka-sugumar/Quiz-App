@@ -1,0 +1,361 @@
+[
+  {
+    "id": 1,
+    "title": "C PROGRAMMING",
+    "description": "Following quiz provides Multiple Choice Questions (MCQs) related to C Programming Framework. ",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 1,
+    "questions": [
+      {
+        "text": "Who is the father of C language? ",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Steve Jobs",
+            "isCorrect": false
+          },
+          {
+            "text": "James Gosling",
+            "isCorrect": false
+          },
+          {
+            "text": " Dennis Ritchie",
+            "isCorrect": true
+          },
+          {
+            "text": "Rasmus Lerdorf",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Which of the following is not a valid C variable name?",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "int number;",
+            "isCorrect": false
+          },
+          {
+            "text": "float rate;",
+            "isCorrect": false
+          },
+          {
+            "text": "int variable_count;",
+            "isCorrect": false
+          },
+          {
+            "text": "int $main;",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "All keywords in C are in ____________",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "LowerCase letters",
+            "isCorrect": true
+          },
+          {
+            "text": "UpperCase letters",
+            "isCorrect": false
+          },
+          {
+            "text": "CamelCase letters",
+            "isCorrect": false
+          },
+          {
+            "text": "None of the mentioned",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Which of the following is true for variable names in C?",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Variable names cannot start with a digit",
+            "isCorrect": true
+          },
+          {
+            "text": "They can contain alphanumeric characters as well as special characters",
+            "isCorrect": false
+          },
+          {
+            "text": "It is not an error to declare a variable to be one of the keywords(like goto, static)",
+            "isCorrect": false
+          },
+          {
+            "text": "Variable can be of any length",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Which of the following cannot be a variable name in C?",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "volatile",
+            "isCorrect": true
+          },
+          {
+            "text": "true",
+            "isCorrect": false
+          },
+          {
+            "text": "friend",
+            "isCorrect": false
+          },
+          {
+            "text": "export",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Data Structures",
+    "description": "Following quiz provides Multiple Choice Questions (MCQs) related to Data Structures Algorithms.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 2,
+    "questions": [
+      {
+        "text": "A complete graph can have",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "n^n - 2 spanning trees",
+            "isCorrect": true
+          },
+          {
+            "text": "n^2 spanning trees",
+            "isCorrect": false
+          },
+          {
+            "text": "n^n + 1 spanning trees",
+            "isCorrect": false
+          },
+          {
+            "text": "n^n spanning trees",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Postfix expression is just a reverse of prefix expression.",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "False",
+            "isCorrect": true
+          },
+          {
+            "text": "True",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Graph traversal is different from a tree traversal, because",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": " trees have root.",
+            "isCorrect": true
+          },
+          {
+            "text": "trees are not connected.",
+            "isCorrect": false
+          },
+          {
+            "text": "graphs may have loops.",
+            "isCorrect": false
+          },
+          {
+            "text": "None is true as tree is a subset of graph.",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "How many swaps are required to sort the given array using bubble sort - { 2, 5, 1, 3, 4}",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "4",
+            "isCorrect": true
+          },
+          {
+            "text": "5",
+            "isCorrect": false
+          },
+          {
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "text": "7",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Index of arrays in C programming langauge starts from",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "0",
+            "isCorrect": true
+          },
+          {
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "text": "either 0 or 1",
+            "isCorrect": false
+          },
+          {
+            "text": "undefined",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "JAVA",
+    "description": "Following quiz provides Multiple Choice Questions (MCQs) related to Core Java.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 3,
+    "questions": [
+      {
+        "text": "What is the size of float variable?",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "32 bit",
+            "isCorrect": true
+          },
+          {
+            "text": " 64 bit",
+            "isCorrect": false
+          },
+          {
+            "text": "16 bit",
+            "isCorrect": false
+          },
+          {
+            "text": "8 bit",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "What is the default value of int variable?",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "0",
+            "isCorrect": true
+          },
+          {
+            "text": "0.0",
+            "isCorrect": false
+          },
+          {
+            "text": "null",
+            "isCorrect": false
+          },
+          {
+            "text": "not defined",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "What is an immutable object?",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "An immutable object can't be changed once it is created.",
+            "isCorrect": true
+          },
+          {
+            "text": "An immutable object can be changed once it is created.",
+            "isCorrect": false
+          },
+          {
+            "text": " An immutable object is an instance of an abstract class.",
+            "isCorrect": false
+          },
+          {
+            "text": "None of the above.",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": " Method Overloading is an example of",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Static Binding.",
+            "isCorrect": true
+          },
+          {
+            "text": "Dynamic Binding.",
+            "isCorrect": false
+          },
+          {
+            "text": "Both of the above.",
+            "isCorrect": false
+          },
+          {
+            "text": "None of the above.",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Can constructor be inherited?",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "False",
+            "isCorrect": true
+          },
+          {
+            "text": "True",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+]
