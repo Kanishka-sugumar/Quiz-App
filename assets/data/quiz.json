@@ -357,5 +357,255 @@
         ]
       }
     ]
+  },
+  {
+    "id": 4,
+    "title": "PYTHON",
+    "description": "Following quiz provides Multiple Choice Questions (MCQs) related to Core Python.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 4,
+    "questions": [
+      {
+        "text": "Is Python case sensitive when dealing with identifiers?",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Yes",
+            "isCorrect": true
+          },
+          {
+            "text": " no",
+            "isCorrect": false
+          },
+          {
+            "text": "machine dependent",
+            "isCorrect": false
+          },
+          {
+            "text": " none of the mentioned",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Which of the following is the correct extension of the Python file?",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": ".py",
+            "isCorrect": true
+          },
+          {
+            "text": ".p",
+            "isCorrect": false
+          },
+          {
+            "text": ".python",
+            "isCorrect": false
+          },
+          {
+            "text": " .pl",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "All keywords in Python are in _________",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "None of the mentioned",
+            "isCorrect": true
+          },
+          {
+            "text": "Capitalized",
+            "isCorrect": false
+          },
+          {
+            "text": "lower case",
+            "isCorrect": false
+          },
+          {
+            "text": "UPPER CASE",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "What will be the value of the following Python expression? 4 + 3 % 5",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "7",
+            "isCorrect": true
+          },
+          {
+            "text": "2",
+            "isCorrect": false
+          },
+          {
+            "text": "4",
+            "isCorrect": false
+          },
+          {
+            "text": "1",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Who developed Python Programming Language?",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Guido van Rossum",
+            "isCorrect": true
+          },
+          {
+            "text": "Wick van Rossum",
+            "isCorrect": false
+          },
+          {
+            "text": "Rasmus Lerdorf",
+            "isCorrect": false
+          },
+          {
+            "text": "Niene Stom",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "C++",
+    "description": "Following quiz provides Multiple Choice Questions (MCQs) related to Core C++.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 5,
+    "questions": [
+      {
+        "text": " Which of the following is the correct syntax of including a user defined header files in C++?",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "#include “userdefined”",
+            "isCorrect": true
+          },
+          {
+            "text": "#include [userdefined]",
+            "isCorrect": false
+          },
+          {
+            "text": "#include <userdefined.h>",
+            "isCorrect": false
+          },
+          {
+            "text": "#include <userdefined>",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Which of the following user-defined header file extension used in c++?",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": " h",
+            "isCorrect": true
+          },
+          {
+            "text": "hg",
+            "isCorrect": false
+          },
+          {
+            "text": "cpp",
+            "isCorrect": false
+          },
+          {
+            "text": "hf",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Which of the following approach is used by C++?",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Bottom-up",
+            "isCorrect": true
+          },
+          {
+            "text": "Left-right",
+            "isCorrect": false
+          },
+          {
+            "text": "Right-left",
+            "isCorrect": false
+          },
+          {
+            "text": "Top-down",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "What is C++?",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "C++ supports both procedural and object oriented programming language",
+            "isCorrect": true
+          },
+          {
+            "text": "C++ is an object oriented programming language",
+            "isCorrect": false
+          },
+          {
+            "text": "C++ is a procedural programming language",
+            "isCorrect": false
+          },
+          {
+            "text": " C++ is a functional programming language",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": " Which of the following is a correct identifier in C++?",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "VAR_1234",
+            "isCorrect": true
+          },
+          {
+            "text": "$var_name",
+            "isCorrect": false
+          },
+          {
+            "text": "7VARNAME",
+            "isCorrect": false
+          },
+          {
+            "text": "7var_name",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
   }
 ]
